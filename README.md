@@ -8,7 +8,6 @@
 
 	The task is given by Sutra Analytics, As per requirement i have implemented Login, Registration and user dashboard. 
 
-![Alt text](/Screenshorts/Screenshot.png?raw=true "Login page")
 ![Screenshot](Screenshorts/Screenshot.png)
 ![Screenshot](Screenshorts/Screenshot1.png)
 ![Screenshot](Screenshots/Screenshot2.png)
