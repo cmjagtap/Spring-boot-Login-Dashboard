@@ -16,9 +16,9 @@
 
 - ##### Technology:
 
-	Java Spring Boot (Backend) 
-	Mysql (Database)
-	Jsp (Frontend)
+	- Java Spring Boot (Backend)
+	- Mysql (Database)
+	- Jsp (Frontend)
 	
 - ##### Task done:
 
