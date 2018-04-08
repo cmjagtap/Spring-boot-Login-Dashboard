@@ -10,7 +10,7 @@
 
 ![Screenshot](Screenshorts/Screenshot.png)
 ![Screenshot](Screenshorts/Screenshot1.png)
-![Screenshot](Screenshots/Screenshot2.png)
+![Screenshot](Screenshorts/Screenshot2.png)
 
 #### BUILDING AND USING:
 
