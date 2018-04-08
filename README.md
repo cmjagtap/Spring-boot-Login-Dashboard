@@ -30,7 +30,7 @@
 
 - ##### Build:
 
-  First you need to set up database details in file `/src/main/resources/application/.properties`.
+  First you need to set up database details in file `/src/main/resources/application.properties`.
   Install `Maven` dependancies using terminal type `mvn clean install` from root directory of project.
 
 - ##### Executing the application (run the server):
