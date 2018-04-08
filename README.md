@@ -8,9 +8,9 @@
 
 	The task is given by Sutra Analytics, As per requirement i have implemented Login, Registration and user dashboard. 
 
-![Screenshot](/Screenshots/Screenshot.png)
-![Screenshot](/Screenshots/Screenshot1.png)
-![Screenshot](/Screenshots/Screenshot2.png)
+![Screenshot](Screenshots/Screenshot.png)
+![Screenshot](Screenshots/Screenshot1.png)
+![Screenshot](Screenshots/Screenshot2.png)
 
 #### BUILDING AND USING:
 
